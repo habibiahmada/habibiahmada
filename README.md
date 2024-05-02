@@ -37,7 +37,9 @@
 
 ###
 
-<h2 align="left">I code with :</h2>
+
+> Tools and technologies that I have worked with and am interested in
+
 
 ###
 
