@@ -1,4 +1,4 @@
-<img src="https://www.w3schools.com/html/programming.gif" alt="Computer man" style="width:60px;height:60px;float:right">
+<img src="https://www.w3schools.com/html/programming.gif" alt="Computer man" style="width:60px;height:60px;float➡️">
 <h1 align="left">Hey 👋 What's up?
 <img src="https://www.codewars.com/users/habibiahmada/badges/micro" alt="badge" /></h1>
 
