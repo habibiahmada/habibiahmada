@@ -2,6 +2,7 @@
 <img src="https://www.codewars.com/users/habibiahmada/badges/micro" alt="badge" /></h1>
 
 <p align="left">My name is Habibi Ahmad and I'm a Beginner Front-End Developer from Indonesia</p>
+<h2>You can find me on:</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/habibi-ahmad-aziz-0b3618283/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
