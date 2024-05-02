@@ -42,18 +42,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=habibiahmada&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/habibiahmada/habibiahmada/output/snake.svg" alt="Snake animation" />
-
-###
-
-<!---
-habibiahmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
