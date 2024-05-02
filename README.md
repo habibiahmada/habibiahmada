@@ -1,4 +1,5 @@
-<img src="https://www.w3schools.com/html/programming.gif" alt="Computer man" style="width:48px;height:48px;"><h1 align="left">Hey 👋 What's up?
+<img src="https://www.w3schools.com/html/programming.gif" alt="Computer man" style="width:60px;height:60px;float:right">
+<h1 align="left">Hey 👋 What's up?
 <img src="https://www.codewars.com/users/habibiahmada/badges/micro" alt="badge" /></h1>
 
 <p align="left">My name is Habibi Ahmad and I'm a Beginner Front-End Developer from Indonesia</p>
