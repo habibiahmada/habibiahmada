@@ -1,5 +1,5 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-
+<img src="https://www.codewars.com/users/habibiahmada/badges/large" alt="badge" />
 ###
 
 <p align="left">My name is Habibi Ahmad and I'm a Beginner Front-End Developer from Indonesia</p>
