@@ -21,6 +21,11 @@
 </div>
 
 ###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/habibiahmada/count.svg?"  />
+</div>
+
+###
 ###
 
 <h2 align="left">About me</h2>
