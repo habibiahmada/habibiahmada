@@ -110,7 +110,7 @@
             <br>Bash
         </td>
         
-    </tr>
+  </tr>
 </table>
 <hr>
 
