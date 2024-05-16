@@ -1,4 +1,6 @@
-<img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Computer man" style="width:60px;height:60px;float➡️">
+<div align="center"">
+<img src="https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif" alt="Computer man" style="width:40%;height:30%;">
+</div>
 <h1 align="left">Hey 👋 What's up?
 <img src="https://www.codewars.com/users/habibiahmada/badges/micro" alt="badge" /></h1>
 
@@ -66,7 +68,7 @@
             <br>Git
         </td>
         <td align="center" width="96">
-            <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"
+            <img src="https://raw.githubusercontent.com/flaviofilipe/flaviofilipe/main/assets/github.gif"
                 width="48" height="48" alt="GitHub" />
             <br>Github
         </td>
@@ -126,3 +128,6 @@
   <img src="https://profile-counter.glitch.me/habibiahmada/count.svg?"  />
 </div>
 <hr>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif">
+</div>
