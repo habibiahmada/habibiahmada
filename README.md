@@ -1,5 +1,5 @@
 <div align="center"">
-<img src="https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif" alt="Computer man" style="width:40%;height:30%;">
+<img src="https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif" alt="Computer man" style="width:50%;height:40%;">
 </div>
 <h1 align="left">Hey 👋 What's up?
 <img src="https://www.codewars.com/users/habibiahmada/badges/micro" alt="badge" /></h1>
