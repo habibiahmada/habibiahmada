@@ -4,21 +4,22 @@
 
 <p align="left">My name is Habibi Ahmad and I'm a Beginner Front-End Developer from Indonesia</p>
 <h2>You can find me on:</h2>
+
 <div align="left">
-  <a href="https://www.linkedin.com/in/habibi-ahmad-aziz-0b3618283/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://media.baamboozle.com/uploads/images/524352/1654869164_100183_gif-url.gif" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/teuwauh__/?hl=en" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/23899486/habibi-ahmad-aziz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://web.facebook.com/habibi.a.aziz.94" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <a href="habibiahmadaziz@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/habibi-ahmad-aziz-0b3618283/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
@@ -34,7 +35,9 @@
 <p align="left">- 👋 Hi, I’m habibiahmad<br>- 👀 I’m interested in fullstack developer<br>- 🌱 I’m currently learning javascript<br>- 💞️ I’m looking to collaborate on no one<br>- 📫 You can reach me on instagram <a href="https://www.instagram.com/teuwauh__/?hl=en">@teuwauh__</a><br>- 😄 Pronouns: no one<br>- ⚡ Fun fact: no one</p>
 
 ###
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif">
+</div>
 
 > Tools and technologies that I have worked with and am interested in
 
@@ -126,6 +129,9 @@
   <img src="https://profile-counter.glitch.me/habibiahmada/count.svg?"  />
 </div>
 <hr>
-<div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif">
-</div>
+
+
+
+
+
+
