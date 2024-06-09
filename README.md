@@ -2,7 +2,7 @@
 <h1 align="left">Hey 👋 What's up?
 <img src="https://www.codewars.com/users/habibiahmada/badges/micro" alt="badge" /></h1>
 
-<p align="left">My name is Habibi Ahmad and I'm a Beginner Front-End Developer from Indonesia</p>
+<p align="left">My name is Habibi Ahmad and I'm a Beginner Developer from Indonesia</p>
 <h2>You can find me on:</h2>
 
 <div align="left">
