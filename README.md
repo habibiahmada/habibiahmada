@@ -36,10 +36,11 @@
 
 ###
 <div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif">
+<img src="https://github.com/user-attachments/assets/119766fd-d716-44d1-9690-668dfe713233">
 </div>
 
 > Tools and technologies that I have worked with and am interested in
+
 
 
 ###
