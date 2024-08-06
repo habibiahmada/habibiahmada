@@ -1,8 +1,9 @@
-<img align="right" height="150" src="https://www.bing.com/th/id/OGC.95bbde73e5f8b45609d5c6ee112dd2bb?pid=1.7&rurl=https%3a%2f%2f1.bp.blogspot.com%2f-iGxUet8Prqk%2fTmeu6ZsjgII%2fAAAAAAAAAVk%2fHyCsXdb4PSc%2fs400%2fBlackDragon.gif&ehk=uxYjDFvctTJlyO0nJTUkP3NZVBxDvvAAxt6HhpDRpmk%3d">
-<img align="right" height="100" src="https://raw.githubusercontent.com/flaviofilipe/flaviofilipe/main/assets/github.gif">
 
 <h1 align="left">Hey 👋 What's up?
 <img src="https://www.codewars.com/users/habibiahmada/badges/micro" alt="badge" /></h1>
+<img align="right" height="150" src="https://media.tenor.com/C43a0QzjkuUAAAAi/white-toothless-toothless.gif">
+<img align="right" height="150" src="https://media.tenor.com/2l4-h42qnmcAAAAi/toothless-dancing-toothless.gif">
+
 
 <p align="left">My name is Habibi Ahmad and I'm a Beginner Developer from Indonesia</p>
 <h2>You can find me on:</h2>
