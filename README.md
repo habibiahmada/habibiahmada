@@ -31,6 +31,10 @@
 ###
 ###
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=habibiahmada&label=Profile%20Views&color=12&icon=0&pretty=true" />
+</a>
+
 <h2 align="left">About me</h2>
 
 ###
