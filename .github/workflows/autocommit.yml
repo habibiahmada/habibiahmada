@@ -15,7 +15,7 @@ jobs:
 
       - uses: actions/checkout@v3
         with:
-          persist-credentials: false
+          persist-credentials: true
           fetch-depth: 0
 
       - name: Modify last update
