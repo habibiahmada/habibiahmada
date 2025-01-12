@@ -6,7 +6,7 @@
       <p>I enjoy using JavaScript in my daily life and make it my main language.</p>
       <p>I am currently actively participating in several programming training programs on several platforms, aiming to become a proficient fullstack web developer.</p>
       <ul style="list-style-type: none; padding: 0;">
-        <li>🔭 I’m currently studying on <a href="https://www.instagram.com/neskar_officiaNeskarl/"></a></li>
+        <li>🔭 I’m currently studying on <a href="https://www.instagram.com/neskar_officiaNeskarl/">Neskar</a></li>
         <li>🌱 I’m currently learning about web technology for my long journey</li>
         <li>💬 Feel free to ask me about web development or JavaScript</li>
         <li>📫 How to reach me: <a href="mailto:habibiahmadaziz@gmail.com">habibiahmadaziz@gmail.com</li>
