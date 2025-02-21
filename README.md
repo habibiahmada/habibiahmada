@@ -56,10 +56,6 @@
 <table>
     <tr>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-            <br>Java
-        </td>
-        <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
             <br>JavaScript
         </td>
@@ -77,7 +73,7 @@
             <br>JQuery
         </td>
         <td align="center" width="96">
-            <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+            <img src="https://github.com/user-attachments/assets/ef7f63ca-47ec-4591-bbf0-ffe3d2a399ba" width="48" height="48" alt="Git" />
             <br>Git
         </td>
         <td align="center" width="96">
@@ -89,7 +85,7 @@
             <br>GitLab
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+            <img src="https://github.com/user-attachments/assets/7eb30513-f818-4425-a384-599c7a28d678" width="48" height="48" alt="HTML" />
             <br>HTML
         </td>
         <td align="center" width="96">
