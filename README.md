@@ -34,7 +34,7 @@
     <a href="https://www.youtube.com/channel/UCa8PGr6FJoB-BmiXPxCFvUg" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
     </a>
-    <a href="https://www.instagram.com/teuwauh__/?hl=en" target="_blank">
+    <a href="https://www.instagram.com/habibiahmad.a/?hl=en" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
     </a>
     <a href="https://discord.com/channels/@me" target="_blank">
