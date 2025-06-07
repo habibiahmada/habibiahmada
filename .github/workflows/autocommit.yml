@@ -4,7 +4,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 0,4,8,12,16,20 * * *"
+    - cron: "0 0,4,6,8,12,14,16,20,22, * * *"
 
 jobs:
   auto_commit:
@@ -35,7 +35,7 @@ jobs:
           # Stage changes
           git add -A
           # Commit with a random emoji
-          git commit -m "${arr[$rand]}"
+          git commit -m "feat: create changes  ${arr[$rand]}"
 
       - name: GitHub Push
         uses: ad-m/github-push-action@v0.6.0
