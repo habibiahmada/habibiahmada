@@ -25,17 +25,34 @@ jobs:
 
       - name: Commit changes
         run: |
-          # Define an array of emoji
+          # Array emoji
           declare -a arr=("😂" "😱" "👿" "💩" "🙏" "🙈" "🐐" "🤖" "🟩" "👻" "🎉" "🔥" "🌟" "🍕" "⚡" "🌈")
-          # Select a random emoji
-          rand=$((RANDOM % ${#arr[@]}))
-          # Configure git
+
+          # ====== PILIH JUMLAH COMMIT ======
+          # versi acak: 1–5 commit per run
+          commits=$(( (RANDOM % 5) + 1 ))
+
+          # kalau mau versi konsisten tiap hari:
+          # commits=$(( ($(date +%d) % 5) + 1 ))
+
+          echo "Akan membuat $commits commit hari ini"
+
+          # Konfigurasi git
           git config --local user.email "habibiahmadaziz@gmail.com"
           git config --local user.name "habibiahmada"
-          # Stage changes
-          git add -A
-          # Commit with a random emoji
-          git commit -m "feat: create changes  ${arr[$rand]}"
+
+          for i in $(seq 1 $commits); do
+            # update isi file biar selalu ada perubahan unik
+            d=$(date '+%Y-%m-%dT%H:%M:%S')-$i
+            echo $d > LAST_UPDATED
+
+            # pilih emoji random
+            rand=$((RANDOM % ${#arr[@]}))
+
+            git add -A
+            git commit -m "feat: auto update ${arr[$rand]} ($i/$commits)"
+          done
+
 
       - name: GitHub Push
         uses: ad-m/github-push-action@v0.6.0
