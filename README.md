@@ -1,3 +1,4 @@
+![IMG_20250829_111043](https://github.com/user-attachments/assets/3edf2e68-07ae-45f0-99c1-db11ea335904)
 # Hey 👋 What's up? I'm Habibi. ![Codewars Badge](https://www.codewars.com/users/habibiahmada/badges/micro)  
 <table style="width: 100%; border-collapse: collapse; text-align: center;">
   <tr>
