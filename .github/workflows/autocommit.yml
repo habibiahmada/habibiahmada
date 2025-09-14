@@ -25,19 +25,13 @@ jobs:
 
       - name: Commit changes
         run: |
-          # Array emoji
-          declare -a arr=("😂" "😱" "👿" "💩" "🙏" "🙈" "🐐" "🤖" "🟩" "👻" "🎉" "🔥" "🌟" "🍕" "⚡" "🌈")
+          declare -a arr=("😂" "😱" "👿" "🙏" "🐐" "🤖" "🟩" "👻" "🎉" "🔥" "🌟" "🍕" "⚡" "🌈")
 
-          # ====== PILIH JUMLAH COMMIT ======
           # versi acak: 1–5 commit per run
           commits=$(( (RANDOM % 5) + 1 ))
 
-          # kalau mau versi konsisten tiap hari:
-          # commits=$(( ($(date +%d) % 5) + 1 ))
-
           echo "Akan membuat $commits commit hari ini"
 
-          # Konfigurasi git
           git config --local user.email "habibiahmadaziz@gmail.com"
           git config --local user.name "habibiahmada"
 
@@ -50,7 +44,7 @@ jobs:
             rand=$((RANDOM % ${#arr[@]}))
 
             git add -A
-            git commit -m "feat: auto update ${arr[$rand]} ($i/$commits)"
+            git commit -m "feat: update ${arr[$rand]} ($i/$commits)"
           done
 
 
