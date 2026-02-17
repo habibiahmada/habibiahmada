@@ -130,14 +130,16 @@ I'm actively participating in multiple programming training programs, working to
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=habibiahmada&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibiahmada&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=habibiahmada&custom_title=GitHub+Stats&theme=highcontrast&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://github.com/habibiahmada)
+
+
+<img height="180em" src="https://helio-github-stats.vercel.app/api/top-langs/?username=habibiahmada&theme=highcontrast&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=habibiahmada&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://helio-github-stats.vercel.app/api?username=habibiahmada&theme=highcontrast)](https://github.com/habibiahmada)
 
 </div>
 
@@ -147,7 +149,7 @@ I'm actively participating in multiple programming training programs, working to
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=habibiahmada&bg_color=1a1b27&color=58A6FF&line=41b9b9&point=d1feff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=habibiahmada&bg_color=1a1b27&color=58A6FF&line=41b9b9&point=d1feff&area=true&hide_border=true)](https://github.com/habibiahmada)
 
 </div>
 
@@ -157,7 +159,7 @@ I'm actively participating in multiple programming training programs, working to
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=habibiahmada&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=habibiahmada&theme=aura)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -183,16 +185,54 @@ I'm actively participating in multiple programming training programs, working to
 
 ---
 
+
 ## 📚 Currently Learning & Roadmap
 
-```
-2025 Goals:
-├── 🌐 Advanced React (Next.js, TanStack Query)
-├── 🔙 Backend (Express.js, REST API)
-├── ☁️ AWS Certified Developer
-├── 🛢️ Database Optimization (MySQL, PostgreSQL)
-├── 🐳 Docker & Containerization
-└── 🤖 AI/ML Integration in Web Apps
+```mermaid
+graph LR
+    A[📚 2026 Learning Roadmap] --> B[🌐 Advanced Go & Web3 Development]
+    A --> C[🔙 Backend Optimization]
+    A --> D[☁️ AWS Certified Developer]
+    A --> E[🛢️ Database Optimization]
+    A --> F[🐳 Docker & Containerization]
+    A --> G[🤖 AI/ML Integration in Web Apps]
+
+    %% Advanced Go & Web3 Breakdown
+    B --> B1[Concurrency & Goroutines]
+    B --> B2[Clean Architecture in Go]
+    B --> B3[Smart Contracts]
+    B --> B4[Blockchain Integration]
+
+    %% Backend Optimization Breakdown
+    C --> C1[System Design]
+    C --> C2[Scalability & Caching]
+    C --> C3[API Performance Tuning]
+    C --> C4[Security Best Practices]
+
+    %% AWS Breakdown
+    D --> D1[EC2 & VPC]
+    D --> D2[S3 & CloudFront]
+    D --> D3[Lambda & Serverless]
+    D --> D4[CI/CD with CodePipeline]
+
+    %% Database Breakdown
+    E --> E1[Indexing & Query Optimization]
+    E --> E2[Normalization vs Denormalization]
+    E --> E3[Replication & Partitioning]
+    E --> E4[Performance Monitoring]
+
+    %% Docker Breakdown
+    F --> F1[Dockerfile Optimization]
+    F --> F2[Multi-stage Builds]
+    F --> F3[Docker Compose]
+    F --> F4[Kubernetes Basics]
+
+    %% AI/ML Breakdown
+    G --> G1[Model Integration via API]
+    G --> G2[Vector Databases]
+    G --> G3[AI Agents]
+    G --> G4[LLM-powered Features]
+
 ```
 
 ---
@@ -214,6 +254,6 @@ I'm actively participating in multiple programming training programs, working to
 
 **Thanks for visiting! Let's build something amazing together 🚀**
 
-![Profile Counter](https://profile-counter.glitch.me/habibiahmada/count.svg)
+![Profile Counter](https://profile-counter.deno.dev/habibiahmada/count.svg)
 
 </div>
