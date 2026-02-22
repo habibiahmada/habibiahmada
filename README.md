@@ -15,29 +15,43 @@
 
 ---
 
+
+
 ## 👋 About Me
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-Hi! I'm **Habibi Ahmad Aziz**, a passionate software engineering student from Indonesia 🇮🇩
+Hi! I'm **Habibi Ahmad Aziz**, a Fullstack Developer from Indonesia 🇮🇩 with a strong focus on **Cloud Computing, Artificial Intelligence, and Modern Web Technologies**.
 
-I love building things for the web and sharing knowledge about technology and programming. JavaScript is my daily companion and main language of choice.
+🏆 **Intel® AI Global Impact Festival 2025 – Country Award Winner (Indonesia)**
+🏆 **Top 15 Best Capstone Team – Coding Camp powered by DBS Foundation**
+🎓 **Coding Camp Graduate with Distinction (Front-End & Back-End Developer Track)**
+☁️ **AWS Cloud Computing Trainer**
+🏫 Student at **SMKN 1 Karawang**
 
-I'm actively participating in multiple programming training programs, working towards becoming a proficient **fullstack web developer**.
+I specialize in building scalable web applications and AI-driven solutions. My work bridges practical software engineering with real-world impact — from AI-powered systems to fullstack platforms designed for production environments.
+
+Currently advancing my expertise in:
+
+* Cloud architecture & AWS infrastructure
+* AI integration in web systems
+* Scalable backend design
+* Modern React & JavaScript ecosystems
+
+I believe in engineering solutions that are not only functional — but strategic and impactful.
 
 <br>
 
-| 🔭 | Currently studying at **[Neskar](https://www.instagram.com/neskar.story/)** |
-|---|---|
-| 🌱 | Learning advanced **web technologies** & cloud computing |
-| 🏫 | **High School Student** with a passion for tech |
-| ☁️ | **AWS Cloud Computing Trainer** |
-| 💬 | Ask me about **JavaScript, React, or Web Dev** |
-| 📫 | Reach me at **habibiahmadaziz@gmail.com** |
-| 💞️ | Open to **collaborations** with anyone! |
-| ⚡ | Fun fact: **I'm alive** and loving every second of it |
+| 🔭 | Building AI & Cloud-based systems                             |
+| -- | ------------------------------------------------------------- |
+| ☁️ | AWS Cloud Computing Trainer                                   |
+| 🏆 | Intel AI GIF 2025 Winner                                      |
+| 🏫 | SMKN 1 Karawang                                               |
+| 💬 | Focus: JavaScript, React, AI, Cloud                           |
+| 📫 | [habibiahmadaziz@gmail.com](mailto:habibiahmadaziz@gmail.com) |
+| 🤝 | Open for high-impact collaborations                           |
 
 </td>
 <td width="40%" align="center" valign="middle">
@@ -47,7 +61,7 @@ I'm actively participating in multiple programming training programs, working to
 
 <br>
 
-> *"The best way to learn is to build."*
+> *"The best way to learn is to build. The best way to lead is to ship."*
 
 </td>
 </tr>
