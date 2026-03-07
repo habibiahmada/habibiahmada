@@ -47,7 +47,7 @@ I believe in engineering solutions that are not only functional — but strategi
 | 🔭 | Building AI & Cloud-based systems                             |
 | -- | ------------------------------------------------------------- |
 | ☁️ | AWS Cloud Computing Trainer                                   |
-| 🏆 | Intel AI GIF 2025 Winner                                      |
+| 🏆 | Intel AI Global Impact Festival 2025 Winner                                      |
 | 🏫 | SMKN 1 Karawang                                               |
 | 💬 | Focus: JavaScript, React, AI, Cloud                           |
 | 📫 | [habibiahmadaziz@gmail.com](mailto:habibiahmadaziz@gmail.com) |
