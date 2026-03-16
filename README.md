@@ -199,58 +199,6 @@ I believe in engineering solutions that are not only functional — but strategi
 
 ---
 
-
-## 📚 Currently Learning & Roadmap
-
-```mermaid
-graph LR
-    A[📚 2026 Learning Roadmap] --> B[🌐 Advanced Go & Web3 Development]
-    A --> C[🔙 Backend Optimization]
-    A --> D[☁️ AWS Certified Developer]
-    A --> E[🛢️ Database Optimization]
-    A --> F[🐳 Docker & Containerization]
-    A --> G[🤖 AI/ML Integration in Web Apps]
-
-    %% Advanced Go & Web3 Breakdown
-    B --> B1[Concurrency & Goroutines]
-    B --> B2[Clean Architecture in Go]
-    B --> B3[Smart Contracts]
-    B --> B4[Blockchain Integration]
-
-    %% Backend Optimization Breakdown
-    C --> C1[System Design]
-    C --> C2[Scalability & Caching]
-    C --> C3[API Performance Tuning]
-    C --> C4[Security Best Practices]
-
-    %% AWS Breakdown
-    D --> D1[EC2 & VPC]
-    D --> D2[S3 & CloudFront]
-    D --> D3[Lambda & Serverless]
-    D --> D4[CI/CD with CodePipeline]
-
-    %% Database Breakdown
-    E --> E1[Indexing & Query Optimization]
-    E --> E2[Normalization vs Denormalization]
-    E --> E3[Replication & Partitioning]
-    E --> E4[Performance Monitoring]
-
-    %% Docker Breakdown
-    F --> F1[Dockerfile Optimization]
-    F --> F2[Multi-stage Builds]
-    F --> F3[Docker Compose]
-    F --> F4[Kubernetes Basics]
-
-    %% AI/ML Breakdown
-    G --> G1[Model Integration via API]
-    G --> G2[Vector Databases]
-    G --> G3[AI Agents]
-    G --> G4[LLM-powered Features]
-
-```
-
----
-
 <div align="center">
 
 ### 💡 Random Dev Quote
