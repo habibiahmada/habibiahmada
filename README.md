@@ -177,6 +177,8 @@ I believe in engineering solutions that are not only functional — but strategi
 
 </div>
 
+<!--START_SECTION:activity-->
+
 ---
 
 ## 🎵 Currently Listening
