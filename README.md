@@ -195,7 +195,7 @@ Currently sharpening my expertise in:
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31nj3tws3ozo2wdtylltwapantq4&cover_image=true&theme=default&show_offline=false&background_color=1a1b27&interchange=true&bar_color=58A6FF&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nj3tws3ozo2wdtylltwapantq4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31nj3tws3ozo2wdtylltwapantq4&redirect=true)
 
 </div>
 
