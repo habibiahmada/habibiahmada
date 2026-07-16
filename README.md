@@ -153,7 +153,7 @@ Currently sharpening my expertise in:
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=habibiahmada&theme=tokyonight&hide_border=true)](https://github.com/habibiahmada)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=habibiahmada&theme=tokyonight&hide_border=true)](https://github.com/habibiahmada)
 
 </div>
 
@@ -185,7 +185,7 @@ Currently sharpening my expertise in:
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=habibiahmada&theme=tokyonight&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=habibiahmada&theme=tokyonight&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
