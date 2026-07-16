@@ -4,7 +4,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1565C0,100:42A5F5&height=180&section=header&text=Habibi%20Ahmad%20Aziz&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Web%20Developer%20%7C%20AWS%20Cloud%20Trainer%20%7C%20AI%20Enthusiast&descAlignY=51&descAlign=50"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=30&duration=3000&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&random=true&width=1000&height=70&lines=Fullstack+Web+Developer;AWS+Cloud+Computing+Trainer;AI+%26+Emerging+Tech+Enthusiast%7C;High+School+Student;Frontend+%26+Backend+Engineer%7C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=30&duration=3000&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&random=true&width=1000&height=70&lines=Fullstack+Web+Developer;AWS+Cloud+Computing+Trainer;AI+%26+Emerging+Tech+Enthusiast;Web+Developer+at+PT+Webekspres+Teknologi+Indonesia;Frontend+%26+Backend+Engineer)](https://git.io/typing-svg)
+
 
 <!-- Profile Views & Social Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=habibiahmada&label=Profile+Views&color=58A6FF&style=flat-square)
@@ -23,15 +24,15 @@
 <tr>
 <td width="60%" valign="top">
 
-Hi! I'm **Habibi Ahmad Aziz**, a Fullstack Developer from Indonesia 🇮🇩 with a strong focus on **Cloud Computing, Artificial Intelligence, and Modern Web Technologies**.
+Hi! I'm **Habibi Ahmad Aziz**, a Fullstack Web Developer from Indonesia 🇮🇩. I specialize in building modern web applications with a strong focus on **Cloud Computing, Artificial Intelligence, and Scalable Web Technologies**.
 
 🏆 **Intel® AI Global Impact Festival 2025 – Country Award Winner (Indonesia)**
 🏆 **Top 15 Best Capstone Team – Coding Camp powered by DBS Foundation**
 🎓 **Coding Camp Graduate with Distinction (Front-End & Back-End Developer Track)**
+💼 **Web Developer at PT Webekspres Teknologi Indonesia**
 ☁️ **AWS Cloud Computing Trainer**
-🏫 Student at **SMKN 1 Karawang**
 
-I specialize in building scalable web applications and AI-driven solutions. My work bridges practical software engineering with real-world impact — from AI-powered systems to fullstack platforms designed for production environments.
+I specialize in building scalable web applications, enterprise websites, and AI-driven solutions. In my current role at **PT Webekspres Teknologi Indonesia**, I develop production-ready web applications while continuing to explore cloud architecture, artificial intelligence, and modern fullstack technologies.
 
 Currently advancing my expertise in:
 
@@ -45,12 +46,12 @@ I believe in engineering solutions that are not only functional — but strategi
 <br>
 
 | 🔭 | Building AI & Cloud-based systems                             |
-| -- | ------------------------------------------------------------- |
+| -- | -------------------------------------------------------------  |
 | ☁️ | AWS Cloud Computing Trainer                                   |
-| 🏆 | Intel AI Global Impact Festival 2025 Winner                                      |
-| 🏫 | SMKN 1 Karawang                                               |
+| 🏆 | Intel AI Global Impact Festival 2025 Winner                   |
+| 💼 | Web Developer at PT Webekspres Teknologi Indonesia            |
 | 💬 | Focus: JavaScript, React, AI, Cloud                           |
-| 📫 | [habibiahmadaziz@gmail.com](mailto:habibiahmadaziz@gmail.com) |
+| 📫 | [habibiahmadaziz@gmail.com](mailto:contact@habibiahmad.dev)   |
 | 🤝 | Open for high-impact collaborations                           |
 
 </td>
