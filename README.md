@@ -4,19 +4,17 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1565C0,100:42A5F5&height=180&section=header&text=Habibi%20Ahmad%20Aziz&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Web%20Developer%20%7C%20AWS%20Cloud%20Trainer%20%7C%20AI%20Enthusiast&descAlignY=51&descAlign=50"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=30&duration=3000&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&random=true&width=1000&height=70&lines=Fullstack+Web+Developer;AWS+Cloud+Computing+Trainer;AI+%26+Emerging+Tech+Enthusiast;Web+Developer+at+PT+Webekspres+Teknologi+Indonesia;Frontend+%26+Backend+Engineer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=3000&pause=1000&color=1565C0&background=FFFFFF00&center=true&vCenter=true&random=true&width=1000&height=60&lines=Fullstack+Web+Developer;AWS+Cloud+Computing+Trainer;AI+%26+Emerging+Tech+Enthusiast;Web+Developer+%40+PT+Webekspres+Teknologi+Indonesia;Building+Cloud+%26+AI-Driven+Web+Systems)](https://git.io/typing-svg)
 
 <!-- Profile Views & Social Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=habibiahmada&label=Profile+Views&color=58A6FF&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/habibiahmada?label=Followers&style=flat-square&color=58A6FF)](https://github.com/habibiahmada?tab=followers)
 [![Codewars](https://www.codewars.com/users/habibiahmada/badges/micro)](https://www.codewars.com/users/habibiahmada)
-[![GitHub followers](https://img.shields.io/github/followers/habibiahmada?label=Followers&style=flat-square&color=58A6FF)](https://github.com/habibiahmada)
+[![Website](https://img.shields.io/badge/Website-habibiahmada.dev-1565C0?style=flat-square&logo=googlechrome&logoColor=white)](https://habibiahmada.dev)
 
 </div>
 
 ---
-
-
 
 ## 👋 About Me
 
@@ -24,35 +22,37 @@
 <tr>
 <td width="60%" valign="top">
 
-Hi! I'm **Habibi Ahmad Aziz**, a Fullstack Web Developer from Indonesia 🇮🇩. I specialize in building modern web applications with a strong focus on **Cloud Computing, Artificial Intelligence, and Scalable Web Technologies**.
+Hi, I'm **Habibi Ahmad Aziz** — a Fullstack Web Developer from Karawang, Indonesia 🇮🇩, focused on building modern, scalable web applications with a strong emphasis on **Cloud Computing, Artificial Intelligence, and Web Engineering**.
 
-🏆 **Intel® AI Global Impact Festival 2025 – Country Award Winner (Indonesia)**
-🏆 **Top 15 Best Capstone Team – Coding Camp powered by DBS Foundation**
-🎓 **Coding Camp Graduate with Distinction (Front-End & Back-End Developer Track)**
+🏆 **Intel® AI Global Impact Festival 2025 — Country Award Winner (Indonesia)**
+🏆 **Top 15 Best Capstone Team — Coding Camp powered by DBS Foundation**
+🎓 **Coding Camp Graduate with Distinction — Front-End & Back-End Developer Track**
 💼 **Web Developer at PT Webekspres Teknologi Indonesia**
 ☁️ **AWS Cloud Computing Trainer**
 
-I specialize in building scalable web applications, enterprise websites, and AI-driven solutions. In my current role at **PT Webekspres Teknologi Indonesia**, I develop production-ready web applications while continuing to explore cloud architecture, artificial intelligence, and modern fullstack technologies.
+At **PT Webekspres Teknologi Indonesia**, I build production-ready digital solutions for businesses, government agencies, and educational institutions — while continuing to explore cloud architecture, AI integration, and modern fullstack ecosystems on the side.
 
-Currently advancing my expertise in:
+I care about writing code that isn't just functional, but **maintainable, scalable, and built to last** — which is also why I create technical content around AI-assisted development and software engineering discipline.
 
-* Cloud architecture & AWS infrastructure
-* AI integration in web systems
-* Scalable backend design
-* Modern React & JavaScript ecosystems
+Currently sharpening my expertise in:
 
-I believe in engineering solutions that are not only functional — but strategic and impactful.
+- ☁️ Cloud architecture & AWS infrastructure
+- 🤖 AI integration in web systems
+- 🧱 Scalable backend design
+- ⚛️ Modern React & JavaScript ecosystems
 
 <br>
 
-| 🔭 | Building AI & Cloud-based systems                             |
-| -- | -------------------------------------------------------------  |
-| ☁️ | AWS Cloud Computing Trainer                                   |
-| 🏆 | Intel AI Global Impact Festival 2025 Winner                   |
-| 💼 | Web Developer at PT Webekspres Teknologi Indonesia            |
-| 💬 | Focus: JavaScript, React, AI, Cloud                           |
-| 📫 | [habibiahmadaziz@gmail.com](mailto:contact@habibiahmad.dev)   |
-| 🤝 | Open for high-impact collaborations                           |
+| | |
+|---|---|
+| 🔭 | Building Cloud & AI-based systems |
+| ☁️ | AWS Cloud Computing Trainer |
+| 🏆 | Intel AI Global Impact Festival 2025 — Country Award Winner |
+| 💼 | Web Developer @ PT Webekspres Teknologi Indonesia |
+| 💬 | Focus: JavaScript, React, AI, Cloud |
+| 📫 | [habibiahmadaziz@gmail.com](mailto:habibiahmadaziz@gmail.com) |
+| 🌐 | [habibiahmada.dev](https://habibiahmada.dev) |
+| 🤝 | Open for high-impact collaborations |
 
 </td>
 <td width="40%" align="center" valign="middle">
@@ -60,9 +60,10 @@ I believe in engineering solutions that are not only functional — but strategi
 <img src="https://media.tenor.com/C43a0QzjkuUAAAAi/white-toothless-toothless.gif" width="150"/>
 <img src="https://media.tenor.com/2l4-h42qnmcAAAAi/toothless-dancing-toothless.gif" width="150"/>
 
-<br>
+<br><br>
 
-> *"The best way to learn is to build. The best way to lead is to ship."*
+> *"The best way to learn is to build.*
+> *The best way to lead is to ship."*
 
 </td>
 </tr>
@@ -74,11 +75,11 @@ I believe in engineering solutions that are not only functional — but strategi
 
 <div align="center">
 
+[![Website](https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=1565C0&logoColor=white&style=for-the-badge)](https://habibiahmada.dev)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/habibi-ahmad-aziz-0b3618283/)
 [![YouTube](https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge)](https://www.youtube.com/channel/UCa8PGr6FJoB-BmiXPxCFvUg)
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge)](https://www.instagram.com/habibiahmad.a/)
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/habibi-ahmad-aziz-0b3618283/)
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge)](mailto:habibiahmadaziz@gmail.com)
-[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge)](https://discord.com/channels/@me)
 
 </div>
 
@@ -99,7 +100,7 @@ I believe in engineering solutions that are not only functional — but strategi
 
 </div>
 
-### 🎨 Styling & UI
+### 🎨 Styling & Design
 
 <div align="center">
 
@@ -114,12 +115,12 @@ I believe in engineering solutions that are not only functional — but strategi
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud, AI & DevOps
 
 <div align="center">
 
@@ -145,16 +146,14 @@ I believe in engineering solutions that are not only functional — but strategi
 
 <div align="center">
 
-[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=habibiahmada&custom_title=GitHub+Stats&theme=highcontrast&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://github.com/habibiahmada)
-
-
-<img height="180em" src="https://helio-github-stats.vercel.app/api/top-langs/?username=habibiahmada&theme=highcontrast&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=habibiahmada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibiahmada&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://helio-github-stats.vercel.app/api?username=habibiahmada&theme=highcontrast)](https://github.com/habibiahmada)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=habibiahmada&theme=tokyonight&hide_border=true)](https://github.com/habibiahmada)
 
 </div>
 
@@ -170,15 +169,25 @@ I believe in engineering solutions that are not only functional — but strategi
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=habibiahmada&repo=portofolio&theme=tokyonight&hide_border=true)](https://github.com/habibiahmada/portofolio)
+
+</div>
+
+> 💡 *Pin your best repositories here — go to your GitHub profile → Customize your pins, and swap in the projects you're proudest of. Add more `github-readme-stats` pin cards above for each one.*
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=habibiahmada&theme=aura)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=habibiahmada&theme=tokyonight&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
-<!--START_SECTION:activity-->
 
 ---
 
@@ -186,7 +195,7 @@ I believe in engineering solutions that are not only functional — but strategi
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31nj3tws3ozo2wdtylltwapantq4&cover_image=true&theme=default&show_offline=false&background_color=1a1b27&interchange=true&bar_color=58A6FF&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31nj3tws3ozo2wdtylltwapantq4&cover_image=true&theme=default&show_offline=false&background_color=1a1b27&interchange=true&bar_color=58A6FF&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
@@ -196,9 +205,11 @@ I believe in engineering solutions that are not only functional — but strategi
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
 </div>
+
+> 💡 *This snake animation needs a one-time GitHub Action set up in a repo named exactly like your username (`habibiahmada/habibiahmada`) to generate automatically — happy to walk you through that workflow file if you'd like.*
 
 ---
 
@@ -217,7 +228,7 @@ I believe in engineering solutions that are not only functional — but strategi
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
-**Thanks for visiting! Let's build something amazing together 🚀**
+**Thanks for visiting — let's build something amazing together 🚀**
 
 ![Profile Counter](https://profile-counter.deno.dev/habibiahmada/count.svg)
 
