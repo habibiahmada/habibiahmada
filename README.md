@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1565C0,100:42A5F5&height=180&section=header&text=Habibi%20Ahmad%20Aziz&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Web%20Developer%20%7C%20AWS%20Cloud%20Trainer%20%7C%20AI%20Enthusiast&descAlignY=51&descAlign=50"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=3000&pause=1000&color=1565C0&background=FFFFFF00&center=true&vCenter=true&random=true&width=1000&height=60&lines=Fullstack+Web+Developer;AWS+Cloud+Computing+Trainer;AI+%26+Emerging+Tech+Enthusiast;Web+Developer+%40+PT+Webekspres+Teknologi+Indonesia;Building+Cloud+%26+AI-Driven+Web+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=3000&pause=1000&color=ffffff&background=FFFFFF00&center=true&vCenter=true&random=true&width=1000&height=60&lines=Fullstack+Web+Developer;AWS+Cloud+Computing+Trainer;AI+%26+Emerging+Tech+Enthusiast;Web+Developer+%40+PT+Webekspres+Teknologi+Indonesia;Building+Cloud+%26+AI-Driven+Web+Systems)](https://git.io/typing-svg)
 
 <!-- Profile Views & Social Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=habibiahmada&label=Profile+Views&color=58A6FF&style=flat-square)
@@ -146,8 +146,7 @@ Currently sharpening my expertise in:
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=habibiahmada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibiahmada&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=habibiahmada&rank_icon=github&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=habibiahmada&rank_icon=github&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=dark)
 
 </div>
 
@@ -173,7 +172,7 @@ Currently sharpening my expertise in:
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=habibiahmada&repo=portofolio&theme=tokyonight&hide_border=true)](https://github.com/habibiahmada/portofolio)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=habibiahmada&repo=anuraghazra/github-readme-stats&description_lines_count=3&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -185,7 +184,7 @@ Currently sharpening my expertise in:
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=habibiahmada&theme=tokyonight&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+[[![GitHub Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=habibiahmada&theme=tokyonight&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)](https://gh-trophy.cdnsoft.net/?username=habibiahmad&theme=onedark)
 
 </div>
 
