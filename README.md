@@ -1,40 +1,27 @@
 <!-- ═══════════════════════════════════════════════════════════════════════
      HABIBI AHMAD AZIZ · GitHub Profile README
-     Rendering notes:
-     - GitHub strips inline <svg> and base64 SVG → every visual is a remote
-       image proxied through camo.githubusercontent.com
-     - <picture> + prefers-color-scheme is honored by GitHub → dark/light art
-     - No capsule-render "waving" shapes. No fake code blocks.
+
+     ASSET POLICY: only image sources that have been confirmed to render on
+     the live profile page are used here. No capsule-render "waving" shapes,
+     no matrix strips, no fake code blocks.
      ═══════════════════════════════════════════════════════════════════════ -->
 
 <!-- ╔═══════════════════════════════════════╗
      ║              H E A D E R              ║
      ╚═══════════════════════════════════════╝ -->
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:0D47A1,45:1565C0,100:42A5F5&text=HABIBI%20AHMAD%20AZIZ&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Fullstack%20Developer%20%E2%97%86%20AWS%20Cloud%20Trainer%20%E2%97%86%20Karawang,%20Indonesia&descSize=17&descAlignY=65&animation=fadeIn" alt="Habibi Ahmad Aziz — Fullstack Developer, AWS Cloud Trainer, Karawang Indonesia"/>
+
 <div align="center">
 
-<!-- Animated matrix strip as the banner -->
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150" alt=""/>
-
-<!-- Name, text-only overlay (no shape) -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=HABIBI%20AHMAD%20AZIZ&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=58" width="100%" alt="Habibi Ahmad Aziz"/>
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=44&text=Fullstack%20Developer%20%E2%97%86%20AWS%20Cloud%20Trainer%20%E2%97%86%20Karawang%2C%20Indonesia&fontSize=17&fontColor=42A5F5&animation=fadeIn&fontAlignY=55" width="100%" alt="Fullstack Developer, AWS Cloud Trainer, Karawang Indonesia"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt=""/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=42A5F5&background=FFFFFF00&center=true&vCenter=true&width=900&height=60&lines=Building+digital+experiences+that+actually+matter.;Fullstack+Web+Developer+%40+PT+Webekspres+Teknologi;AWS+Cloud+Computing+Trainer+%E2%98%81%EF%B8%8F;Frontend-leaning%2C+API-obsessed%2C+performance-driven;Open+to+freelance+%26+full-time+%C2%B7+Remote+(WIB))](https://www.habibiahmada.dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1000&color=42A5F5&background=FFFFFF00&center=true&vCenter=true&width=820&height=45&lines=Building+digital+experiences+that+actually+matter.;Fullstack+Web+Developer+at+PT+Webekspres+Teknologi;AWS+Cloud+Computing+Trainer;Frontend-leaning%2C+API-obsessed%2C+performance-driven;Open+to+freelance+%26+full-time+%C2%B7+Remote+(WIB))](https://www.habibiahmada.dev)
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=habibiahmada&label=PROFILE+VIEWS&color=0D47A1&style=for-the-badge" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=habibiahmada&label=PROFILE+VIEWS&color=0D47A1&style=for-the-badge" alt="profile views"/>
   <a href="https://github.com/habibiahmada?tab=followers"><img src="https://img.shields.io/github/followers/habibiahmada?label=FOLLOWERS&style=for-the-badge&color=1565C0" alt="followers"/></a>
   <a href="https://www.habibiahmada.dev"><img src="https://img.shields.io/badge/WEBSITE-habibiahmada.dev-42A5F5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website"/></a>
-  <a href="https://www.habibiahmada.dev/about"><img src="https://img.shields.io/badge/STATUS-Open%20to%20work-2ecc71?style=for-the-badge&logo=checkmarx&logoColor=white" alt="status"/></a>
+  <a href="https://www.habibiahmada.dev/about"><img src="https://img.shields.io/badge/STATUS-Open%20to%20work-2ecc71?style=for-the-badge&logo=checkmarx&logoColor=white" alt="open to work"/></a>
 </p>
-
-<!-- 🐉 Toothless & Light Fury — front row, dancing -->
-<img src="https://media.tenor.com/2l4-h42qnmcAAAAi/toothless-dancing-toothless.gif" width="130" alt=""/>
-<img src="https://media.tenor.com/C43a0QzjkuUAAAAi/white-toothless-toothless.gif" width="130" alt=""/>
-<img src="https://media.tenor.com/2l4-h42qnmcAAAAi/toothless-dancing-toothless.gif" width="130" alt=""/>
 
 </div>
 
@@ -48,15 +35,13 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="56%" valign="top">
 
 I'm a **frontend-leaning fullstack developer** from **Karawang, Indonesia** 🇮🇩 who ships web products end to end — UI systems *and* the APIs behind them — with a bias for **performance you can measure, not just claim**.
 
 At **PT Webekspres Teknologi Indonesia** I build production digital solutions for businesses, government agencies, and schools, and I train teams on **AWS Cloud Computing**.
 
 **How I ship** &nbsp;·&nbsp; scope the real job → thin vertical slice → harden what users can break → measure, then decorate.
-
-<br>
 
 <table>
 <tr><td>💼</td><td>Web Developer @ <b>PT Webekspres Teknologi Indonesia</b></td></tr>
@@ -68,12 +53,18 @@ At **PT Webekspres Teknologi Indonesia** I build production digital solutions fo
 </table>
 
 </td>
-<td width="45%" align="center" valign="middle">
+<td width="44%" align="center" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt=""/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="330" alt=""/>
 
-> ### *"The best way to learn is to build.*
-> ### *The best way to lead is to ship."*
+<!-- 🐉 Toothless & Light Fury — the duo, bigger and paired for contrast -->
+<img src="https://media.tenor.com/2l4-h42qnmcAAAAi/toothless-dancing-toothless.gif" width="115" alt=""/>
+<img src="https://media.tenor.com/C43a0QzjkuUAAAAi/white-toothless-toothless.gif" width="115" alt=""/>
+
+<br>
+
+> ***"The best way to learn is to build.***
+> ***The best way to lead is to ship."***
 
 </td>
 </tr>
@@ -91,37 +82,37 @@ At **PT Webekspres Teknologi Indonesia** I build production digital solutions fo
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
-<img src="https://media.giphy.com/media/RDZo7znAdn2ANjbrmv/giphy.gif" width="70" alt=""/>
+<h1>🥇</h1>
 
-**Intel® AI Global Impact Festival 2025**
+**Intel® AI Global Impact Festival**
 
-[`Indonesia Country Award`](https://www.habibiahmada.dev/projects/agrify)
+[![Indonesia Country Award](https://img.shields.io/badge/Indonesia_Country_Award-2025-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.habibiahmada.dev/projects/agrify)
 
-*for Agrify / Smartfarm AI*
+for *Agrify / Smartfarm AI*
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="70" alt=""/>
+<h1>🥈</h1>
 
 **Coding Camp × DBS Foundation**
 
-[`Top 15 Best Capstone Team`](https://www.dicoding.com/blog/lulus-coding-camp-bentuk-keyakinan-habibi-untuk-melangkah-di-dunia-teknologi/)
+[![Top 15 Capstone](https://img.shields.io/badge/Top_15_Best_Capstone_Team-2025-005AB4?style=for-the-badge)](https://www.dicoding.com/blog/lulus-coding-camp-bentuk-keyakinan-habibi-untuk-melangkah-di-dunia-teknologi/)
 
-*out of thousands of participants*
+out of thousands of participants
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="70" alt=""/>
+<h1>🎓</h1>
 
 **Coding Camp Graduate**
 
-[`With Distinction`](https://www.habibiahmada.dev/about)
+[![With Distinction](https://img.shields.io/badge/Graduate_with_Distinction-2025-1565C0?style=for-the-badge)](https://www.habibiahmada.dev/about)
 
-*Front-End & Back-End track*
+Front-End & Back-End track
 
 </td>
 </tr>
@@ -138,15 +129,6 @@ At **PT Webekspres Teknologi Indonesia** I build production digital solutions fo
 ## 🧰 &nbsp;Tech Arsenal
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" alt=""/>
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" alt=""/>
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" alt=""/>
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60" alt=""/>
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60" alt=""/>
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" alt=""/>
-
-<br><br>
 
 <table>
 <tr><td align="center" width="50%">
@@ -230,61 +212,34 @@ At **PT Webekspres Teknologi Indonesia** I build production digital solutions fo
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt=""/>
 
 <!-- ╔═══════════════════════════════════════╗
-     ║        R E C E N T  A C T I V I T Y   ║
-     ╚═══════════════════════════════════════╝ -->
-
-## ⚡ &nbsp;Recent Activity
-
-<details open>
-<summary><b>Auto-updated every 30 minutes</b></summary>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt=""/>
-
-<!-- ╔═══════════════════════════════════════╗
-     ║               S N A K E               ║
-     ╚═══════════════════════════════════════╝ -->
-
-## 🐍 &nbsp;Watch My Contributions Get Eaten
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/habibiahmada/habibiahmada/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/habibiahmada/habibiahmada/output/github-snake.svg"/>
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/habibiahmada/habibiahmada/output/github-snake.svg"/>
-</picture>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt=""/>
-
-<!-- ╔═══════════════════════════════════════╗
-     ║        S P O T I F Y  +  Q U O T E    ║
+     ║   A C T I V I T Y  +  S P O T I F Y   ║
      ╚═══════════════════════════════════════╝ -->
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="55%" valign="top">
+
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</td>
+<td width="45%" align="center" valign="top">
 
 ### 🎵 Currently Listening
 
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31nj3tws3ozo2wdtylltwapantq4&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=42A5F5&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31nj3tws3ozo2wdtylltwapantq4&redirect=true)
 
 </td>
-<td width="50%" align="center" valign="top">
-
-### 💡 Random Dev Wisdom
-
-[![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</td>
 </tr>
 </table>
+
+<div align="center">
+
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt=""/>
 
@@ -304,13 +259,6 @@ At **PT Webekspres Teknologi Indonesia** I build production digital solutions fo
 
 <br><br>
 
-<!-- 🐉 Toothless & Light Fury — encore -->
-<img src="https://media.tenor.com/C43a0QzjkuUAAAAi/white-toothless-toothless.gif" width="150" alt=""/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://media.tenor.com/2l4-h42qnmcAAAAi/toothless-dancing-toothless.gif" width="150" alt=""/>
-
-### **Let's build something that actually matters.**
-
 <a href="https://www.habibiahmada.dev"><img src="https://img.shields.io/badge/habibiahmada.dev-Visit-1565C0?style=flat-square&logo=googlechrome&logoColor=white" alt="site"/></a>
 <a href="https://www.habibiahmada.dev/about"><img src="https://img.shields.io/badge/📍_Karawang-Indonesia-0D47A1?style=flat-square" alt="location"/></a>
 <a href="https://www.habibiahmada.dev/about"><img src="https://img.shields.io/badge/🟢_Open_to-Work-2ecc71?style=flat-square" alt="open to work"/></a>
@@ -318,4 +266,4 @@ At **PT Webekspres Teknologi Indonesia** I build production digital solutions fo
 
 </div>
 
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="110" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&section=footer&height=130&color=0:42A5F5,55:1565C0,100:0D47A1&text=Let's%20build%20something%20that%20actually%20matters.&fontSize=26&fontColor=ffffff&fontAlignY=48&desc=Thanks%20for%20stopping%20by!&descSize=15&descAlignY=72&animation=fadeIn" alt="Let's build something that actually matters"/>
