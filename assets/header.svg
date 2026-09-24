@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Habibi Ahmad Aziz — Frontend-leaning Fullstack Developer">
+  <defs>
+    <style>
+      .mono { font-family: 'JetBrains Mono','Fira Code','SF Mono',Consolas,'DejaVu Sans Mono',monospace; }
+      .sans { font-family: 'Segoe UI',Inter,'Helvetica Neue',Arial,'DejaVu Sans',sans-serif; }
+
+      /* synthwave floor scrolling toward the viewer */
+      .floor { animation: floor 1.6s linear infinite; }
+      @keyframes floor { from { transform: translateY(0); } to { transform: translateY(24px); } }
+
+      /* horizontal scan beam */
+      .scan { animation: scan 5s ease-in-out infinite; }
+      @keyframes scan { 0% { transform: translateY(40px); opacity: 0; } 15% { opacity: .9; } 85% { opacity: .9; } 100% { transform: translateY(400px); opacity: 0; } }
+
+      /* entrance */
+      .rise { opacity: 0; animation: rise .9s cubic-bezier(.2,.8,.2,1) forwards; }
+      .d1 { animation-delay: .1s; } .d2 { animation-delay: .5s; }
+      @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+
+      /* glitch slices on the name */
+      .g1 { animation: g1 4s steps(1) infinite; }
+      .g2 { animation: g2 4s steps(1) infinite; }
+      @keyframes g1 { 0%,88%,100% { transform: translate(0,0); opacity: 0; } 89% { transform: translate(-6px,0); opacity: .8; } 91% { transform: translate(5px,0); opacity: .8; } 93% { opacity: 0; } }
+      @keyframes g2 { 0%,89%,100% { transform: translate(0,0); opacity: 0; } 90% { transform: translate(6px,0); opacity: .8; } 92% { transform: translate(-4px,0); opacity: .8; } 94% { opacity: 0; } }
+
+      /* typed role line */
+      .type { animation: type 1.6s steps(36) .9s forwards; }
+      @keyframes type { from { width: 0; } to { width: 530px; } }
+      .caret { animation: caretMove 1.6s steps(36) .9s forwards, blink 1s step-end infinite; }
+      @keyframes caretMove { from { transform: translateX(0); } to { transform: translateX(522px); } }
+      @keyframes blink { 50% { opacity: 0; } }
+
+
+      .twinkle { animation: tw 3s ease-in-out infinite; }
+      .twinkle:nth-child(2n) { animation-delay: 1s; } .twinkle:nth-child(3n) { animation-delay: 2s; }
+      @keyframes tw { 0%,100% { opacity: .15; } 50% { opacity: .9; } }
+    </style>
+
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#050A18"/>
+      <stop offset=".62" stop-color="#0A1633"/>
+      <stop offset="1" stop-color="#050A18"/>
+    </linearGradient>
+
+    <!-- shimmering name fill -->
+    <linearGradient id="name" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#E3F2FD"/>
+      <stop offset=".35" stop-color="#64B5F6"/>
+      <stop offset=".5" stop-color="#FFFFFF"/>
+      <stop offset=".65" stop-color="#42A5F5"/>
+      <stop offset="1" stop-color="#E3F2FD"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1200 0;1200 0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="nameBase" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#90CAF9"/>
+      <stop offset="1" stop-color="#E3F2FD"/>
+    </linearGradient>
+
+    <linearGradient id="floorFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".35" stop-color="#fff" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="floorMask"><rect x="0" y="290" width="1200" height="130" fill="url(#floorFade)"/></mask>
+
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#42A5F5" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#42A5F5" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#42A5F5" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="2"/></filter>
+
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#1E3A6E"/>
+    </pattern>
+
+    <clipPath id="card"><rect width="1200" height="420" rx="18"/></clipPath>
+    <clipPath id="typeClip"><rect class="type" x="0" y="-30" width="0" height="44"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="420" fill="url(#bg)"/>
+    <rect width="1200" height="290" fill="url(#dots)" opacity=".55"/>
+
+    <!-- stars -->
+    <g fill="#BBDEFB">
+      <circle class="twinkle" cx="96" cy="92" r="1.4"/>
+      <circle class="twinkle" cx="212" cy="160" r="1"/>
+      <circle class="twinkle" cx="1040" cy="84" r="1.5"/>
+      <circle class="twinkle" cx="1122" cy="190" r="1"/>
+      <circle class="twinkle" cx="930" cy="140" r="1.1"/>
+      <circle class="twinkle" cx="300" cy="72" r="1.2"/>
+      <circle class="twinkle" cx="780" cy="66" r="1"/>
+      <circle class="twinkle" cx="148" cy="236" r="1.2"/>
+      <circle class="twinkle" cx="1070" cy="250" r="1.2"/>
+    </g>
+
+    <!-- synthwave floor -->
+    <g mask="url(#floorMask)" stroke="#1E88E5" stroke-width="1.2" fill="none">
+      <g class="floor">
+        <line x1="0" y1="266" x2="1200" y2="266"/>
+        <line x1="0" y1="290" x2="1200" y2="290"/>
+        <line x1="0" y1="314" x2="1200" y2="314"/>
+        <line x1="0" y1="338" x2="1200" y2="338"/>
+        <line x1="0" y1="362" x2="1200" y2="362"/>
+        <line x1="0" y1="386" x2="1200" y2="386"/>
+        <line x1="0" y1="410" x2="1200" y2="410"/>
+      </g>
+      <path d="M600 290 L-600 420 M600 290 L-300 420 M600 290 L0 420 M600 290 L200 420 M600 290 L400 420 M600 290 L600 420 M600 290 L800 420 M600 290 L1000 420 M600 290 L1200 420 M600 290 L1500 420 M600 290 L1800 420"/>
+    </g>
+    <line x1="0" y1="290" x2="1200" y2="290" stroke="#42A5F5" stroke-width="1.5" opacity=".8" filter="url(#glow)"/>
+
+    <!-- scan beam -->
+    <rect class="scan" x="0" y="0" width="1200" height="2" fill="url(#beam)"/>
+
+    <!-- terminal title bar -->
+    <g class="rise d1">
+      <circle cx="34" cy="32" r="6" fill="#FF5F57"/>
+      <circle cx="54" cy="32" r="6" fill="#FEBC2E"/>
+      <circle cx="74" cy="32" r="6" fill="#28C840"/>
+    </g>
+
+    <!-- HUD corners -->
+    <g stroke="#42A5F5" stroke-width="2" fill="none" opacity=".7">
+      <path d="M150 78 h-26 v26"/><path d="M1050 78 h26 v26"/>
+      <path d="M150 262 h-26 v-26"/><path d="M1050 262 h26 v-26"/>
+    </g>
+
+    <!-- NAME with glitch slices -->
+    <g class="rise d2" font-size="76" font-weight="800" text-anchor="middle" letter-spacing="2">
+      <text x="600" y="180" class="sans g1" fill="#FF3D7F">HABIBI AHMAD AZIZ</text>
+      <text x="600" y="180" class="sans g2" fill="#00E5FF">HABIBI AHMAD AZIZ</text>
+      <text x="600" y="180" class="sans" fill="url(#nameBase)" filter="url(#glow)" opacity=".55">HABIBI AHMAD AZIZ</text>
+      <text x="600" y="180" class="sans" fill="url(#name)">HABIBI AHMAD AZIZ</text>
+    </g>
+
+    <!-- typed role -->
+    <g transform="translate(341 226)">
+      <g clip-path="url(#typeClip)">
+        <text x="0" y="0" class="mono" font-size="24" fill="#BBDEFB">Frontend-leaning Fullstack Developer</text>
+      </g>
+      <rect class="caret" x="4" y="-22" width="12" height="28" fill="#42A5F5"/>
+    </g>
+
+    <rect width="1200" height="420" rx="18" fill="none" stroke="#1E3A6E" stroke-width="2"/>
+  </g>
+</svg>
