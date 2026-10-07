@@ -1,140 +1,60 @@
-<!--
-  Habibi Ahmad Aziz, GitHub profile README.
-  Direction lives in DESIGN.md. Dial: ENERGY 2 / RHYTHM 2 / MOTION 1.
+<a href="https://www.habibiahmada.dev"><img width="100%" src="assets/header.svg" alt="Habibi Ahmad Aziz, Frontend-leaning Fullstack Developer"/></a>
 
-  Decisions, one line each (R-31):
-  - No banner image. GitHub's own h1 inherits the reader's theme, so the
-    intro cannot fail contrast the way a fixed gradient bar did.
-  - The two dragons open and close the page: they are the identity motif.
-  - One accent, plasma violet #A371F7, readable on both themes at large
-    sizes, used on the typed line, the heatmap and two badges only.
-  - <picture> serves a light and a dark variant of every stat card so the
-    cards belong to the reader's theme instead of pinning one.
-  - Section composition varies on purpose: prose, then a reflowing list,
-    then an icon row, then cards, then inline links.
-  - The project list is a list, not a table: a table of six projects with
-    descriptions forces a horizontal scrollbar on a phone.
-  - JetBrains Mono on the typed line only: a code face for the one line
-    written in a developer's voice, and the only monospace on the page.
-  - Only image sources already confirmed to render on the live profile.
--->
+<p align="center">
+  <a href="https://www.habibiahmada.dev"><img src="https://img.shields.io/badge/habibiahmada.dev-0D47A1?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/habibi-ahmad-aziz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a>
+  <a href="mailto:habibiahmadaziz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.youtube.com/channel/UCa8PGr6FJoB-BmiXPxCFvUg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.instagram.com/habibiahmad.a/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/open_to-freelance_%26_full--time-2EA043?style=flat-square" alt="Open to freelance and full-time"/>
+</p>
 
-<div align="center">
+### Hi, I'm Habibi.
 
-<img src="https://media.tenor.com/2l4-h42qnmcAAAAi/toothless-dancing-toothless.gif" width="150" alt=""/>
-<img src="https://media.tenor.com/C43a0QzjkuUAAAAi/white-toothless-toothless.gif" width="150" alt=""/>
+I'm a frontend-leaning fullstack developer in Karawang, Indonesia. I build web products end to end: the interface people touch and the API behind it. I care about performance I can measure, not performance I can claim.
 
-# Habibi Ahmad Aziz
+Right now I'm a Web Developer at **PT Webekspres Teknologi Indonesia**, where I've shipped 19 client websites in about four months for businesses, government agencies and schools.
 
-[![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3400&pause=1200&color=A371F7&background=FFFFFF00&center=true&vCenter=true&width=640&height=42&lines=Fullstack+developer%2C+Karawang+Indonesia;I+build+the+UI+and+the+API+behind+it;AWS+Cloud+Computing+trainer;Available+for+freelance+and+full-time%2C+remote+WIB)](https://www.habibiahmada.dev)
+You can also find me in a terminal: `npx habibiahmada` or `ssh ssh.habibiahmada.dev`.
 
-[![Portfolio](https://img.shields.io/badge/habibiahmada.dev-A371F7?style=flat-square&logo=googlechrome&logoColor=white)](https://www.habibiahmada.dev)
-[![Email](https://img.shields.io/badge/Email_me-A371F7?style=flat-square&logo=gmail&logoColor=white)](mailto:habibiahmadaziz@gmail.com)
-[![Followers](https://img.shields.io/github/followers/habibiahmada?style=flat-square&label=followers&color=30363d)](https://github.com/habibiahmada?tab=followers)
-[![Views](https://komarev.com/ghpvc/?username=habibiahmada&label=views&color=30363d&style=flat-square)](https://github.com/habibiahmada)
+### Experience
 
-</div>
+- **Web Developer** · PT Webekspres Teknologi Indonesia · *2026 to now*
+- **Coding Camp, top 15 capstone team** · DBS Foundation × Dicoding · *2025*
+- **Web Developer Intern** · CV. SmartPlus Indonesia · *2025*
+- **Software Engineering** · SMK Negeri 1 Karawang · *2023 to 2026*
 
-> [!NOTE]
-> Web Developer at **PT Webekspres Teknologi Indonesia**, and an **AWS Cloud Computing trainer**.
-> Open to freelance and full-time work, remote on WIB.
+### Selected work
 
-## About
+- **[JepangKu](https://jepangku.com)** · News portal with quizzes, polls and XP gamification. *Next.js, React, Elysia, Clerk*
+- **[BagiBerkah](https://bagiberkah.vercel.app)** · A digital THR experience with mini-games. *Next.js, Express*
+- **[Terraju](https://terraju.id)** · Regional directory for destinations and local UMKM. *WordPress, Elementor*
+- **[E-Vote](https://vote.smkn1karawang.sch.id/)** · Digital OSIS elections for SMKN 1 Karawang. *Laravel, PHP*
+- **[CultureConnect](https://culture-connect-iota.vercel.app/)** · AI platform for cultural travel. *Python, React*
+- **[Smartfarm AI](https://www.habibiahmada.dev/projects/agrify)** · ML-assisted insights for farmers. *React, Python*
 
-I am a frontend-leaning fullstack developer from Karawang, Indonesia. I ship web products end to end, the interface and the API underneath it, and I care about performance I can measure rather than performance I can claim.
+Write-ups for each are at [habibiahmada.dev/projects](https://www.habibiahmada.dev/projects).
 
-At Webekspres I build production software for businesses, government agencies and schools. The rest of the week I teach AWS Cloud Computing.
+### Recognition
 
-How I work: scope the real job, cut a thin vertical slice, harden whatever users can break, measure, and decorate last.
+- **Intel® AI Global Impact Festival 2025**, Indonesia Country Award, for Smartfarm AI
+- **Coding Camp × DBS Foundation**, top 15 capstone team, graduated with distinction
+- **Certified** in AWS, Alibaba Cloud, and Fullstack Web Development (Kemnaker)
 
-<table>
-<tr><td>Focus</td><td>Next.js, React, Laravel, AWS, applied AI</td></tr>
-<tr><td>Based in</td><td>Karawang, Indonesia (WIB)</td></tr>
-<tr><td>Site</td><td><a href="https://www.habibiahmada.dev">habibiahmada.dev</a></td></tr>
-<tr><td>Mail</td><td><a href="mailto:habibiahmadaziz@gmail.com">habibiahmadaziz@gmail.com</a></td></tr>
-</table>
+### Stack
 
-## Shipped
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,php,laravel,python,postgres,mysql,wordpress,aws,vercel,linux,git,figma&perline=9&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, Express, PHP, Laravel, Python, PostgreSQL, MySQL, WordPress, AWS, Vercel, Linux, Git, Figma"/></a>
 
-**[JepangKu](https://jepangku.com)** · news portal with quizzes, polls and XP gamification
-<sub>Next.js, React, Elysia, Clerk · 2026 · Webekspres team</sub>
+### On GitHub
 
-**[BagiBerkah](https://bagiberkah.vercel.app)** · digital THR experience with mini-games
-<sub>Next.js, Express · 2026 · solo</sub>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=habibiahmada&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=42A5F5&icon_color=42A5F5&rank_icon=github" alt="GitHub stats"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=habibiahmada&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=42A5F5" alt="Top languages"/>
 
-**[Terraju](https://terraju.id)** · regional directory for destinations and local UMKM
-<sub>WordPress, Elementor · 2026 · Webekspres team</sub>
+---
 
-**[E-Vote](https://vote.smkn1karawang.sch.id/)** · OSIS elections for SMKN 1 Karawang
-<sub>PHP, Laravel · 2025 · solo</sub>
-
-**[CultureConnect](https://culture-connect-iota.vercel.app/)** · platform for cultural travel
-<sub>Python, React · 2025 · distributed team</sub>
-
-**[Agrify / Smartfarm](https://www.habibiahmada.dev/projects/agrify)** · ML-assisted insights for farmers
-<sub>React, Python · 2025 · team project</sub>
-
-Case studies for each one are at [habibiahmada.dev/projects](https://www.habibiahmada.dev/projects).
-
-## Recognised
-
-**Intel® AI Global Impact Festival 2025**, Indonesia Country Award, for [Agrify / Smartfarm AI](https://www.habibiahmada.dev/projects/agrify).
-
-**Coding Camp × DBS Foundation**, [top 15 capstone team](https://www.dicoding.com/blog/lulus-coding-camp-bentuk-keyakinan-habibi-untuk-melangkah-di-dunia-teknologi/), and graduated with distinction on the front-end and back-end track.
-
-## Tools I reach for
-
-<div align="center">
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,html,css&theme=dark" alt="TypeScript, JavaScript, Next.js, React, Tailwind, HTML, CSS"/></a>
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,mysql,wordpress&theme=dark" alt="Node.js, Express, PHP, Laravel, Python, MySQL, WordPress"/></a>
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,linux,bash,vercel,git,github,figma&theme=dark" alt="AWS, Linux, Bash, Vercel, Git, GitHub, Figma"/></a>
-
-</div>
-
-## By the numbers
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=habibiahmada&rank_icon=github&show_icons=true&include_all_commits=true&hide_border=true&theme=dark&bg_color=00000000&title_color=A371F7&icon_color=A371F7&text_color=c9d1d9"/>
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=habibiahmada&rank_icon=github&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=8250df&icon_color=8250df&text_color=1f2328" alt="GitHub statistics"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=habibiahmada&hide_border=true&background=00000000&ring=A371F7&fire=A371F7&currStreakLabel=A371F7&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=habibiahmada&hide_border=true&background=00000000&ring=8250df&fire=8250df&currStreakLabel=8250df&sideLabels=1f2328&currStreakNum=1f2328&sideNums=1f2328&dates=656d76" alt="Contribution streak"/>
-</picture>
-
-<br><br>
-
-<img width="98%" src="https://ghchart.rshah.org/A371F7/habibiahmada" alt="Contribution heatmap for the past year"/>
-
-</div>
-
-## Lately
-
-<!--START_SECTION:activity-->
-_Empty until the `update-readme` workflow has run on the default branch. It replaces this line with my five most recent public actions._
-<!--END_SECTION:activity-->
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31nj3tws3ozo2wdtylltwapantq4&cover_image=true&theme=novatorem&show_offline=false&interchange=true&background_color=0d1117&bar_color=A371F7&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31nj3tws3ozo2wdtylltwapantq4&redirect=true)
-
-</div>
-
-## Elsewhere
-
-[Portfolio](https://www.habibiahmada.dev) · [LinkedIn](https://www.linkedin.com/in/habibi-ahmad-aziz) · [YouTube](https://www.youtube.com/channel/UCa8PGr6FJoB-BmiXPxCFvUg) · [Instagram](https://www.instagram.com/habibiahmad.a/) · [Email](mailto:habibiahmadaziz@gmail.com)
-
-<div align="center">
-<br>
-
-<img src="https://media.tenor.com/C43a0QzjkuUAAAAi/white-toothless-toothless.gif" width="120" alt=""/>
-<img src="https://media.tenor.com/2l4-h42qnmcAAAAi/toothless-dancing-toothless.gif" width="120" alt=""/>
-
-<sub>Have something you want built? The inbox is open.</sub>
-
-</div>
+<p align="center">
+  <img src="https://media.tenor.com/2l4-h42qnmcAAAAi/toothless-dancing-toothless.gif" width="70" alt="Toothless"/>
+  <img src="https://media.tenor.com/C43a0QzjkuUAAAAi/white-toothless-toothless.gif" width="70" alt="Light Fury"/>
+  <br/>
+  <sub>Have something to build? <a href="mailto:habibiahmadaziz@gmail.com">habibiahmadaziz@gmail.com</a></sub>
+</p>
