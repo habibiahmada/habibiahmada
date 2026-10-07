@@ -1,4 +1,5 @@
-<a href="https://www.habibiahmada.dev"><img width="100%" src="assets/header.svg" alt="Habibi Ahmad Aziz, Frontend-leaning Fullstack Developer"/></a>
+<h1 align="center">Habibi Ahmad Aziz</h1>
+<p align="center">Frontend-leaning Fullstack Developer · Karawang, Indonesia</p>
 
 <p align="center">
   <a href="https://www.habibiahmada.dev"><img src="https://img.shields.io/badge/habibiahmada.dev-0D47A1?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
@@ -9,7 +10,7 @@
   <img src="https://img.shields.io/badge/open_to-freelance_%26_full--time-2EA043?style=flat-square" alt="Open to freelance and full-time"/>
 </p>
 
-### Hi, I'm Habibi.
+### About
 
 I'm a frontend-leaning fullstack developer in Karawang, Indonesia. I build web products end to end: the interface people touch and the API behind it. I care about performance I can measure, not performance I can claim.
 
@@ -43,12 +44,16 @@ Write-ups for each are at [habibiahmada.dev/projects](https://www.habibiahmada.d
 
 ### Stack
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,php,laravel,python,postgres,mysql,wordpress,aws,vercel,linux,git,figma&perline=9&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, Express, PHP, Laravel, Python, PostgreSQL, MySQL, WordPress, AWS, Vercel, Linux, Git, Figma"/></a>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,php,laravel,python,postgres,mysql,wordpress,aws,vercel,linux,git,figma&perline=9&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, Express, PHP, Laravel, Python, PostgreSQL, MySQL, WordPress, AWS, Vercel, Linux, Git, Figma"/></a>
+</p>
 
 ### On GitHub
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=habibiahmada&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=42A5F5&icon_color=42A5F5&rank_icon=github" alt="GitHub stats"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=habibiahmada&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=42A5F5" alt="Top languages"/>
+<p align="center">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=habibiahmada&show_icons=true&include_all_commits=true&hide_border=true&card_width=420&theme=tokyonight&bg_color=0D1117&title_color=42A5F5&icon_color=42A5F5&rank_icon=github" alt="GitHub stats"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=habibiahmada&layout=compact&langs_count=8&hide_border=true&card_width=420&theme=tokyonight&bg_color=0D1117&title_color=42A5F5" alt="Top languages"/>
+</p>
 
 ---
 
