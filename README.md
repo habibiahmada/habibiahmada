@@ -15,13 +15,13 @@
 
 I'm a frontend-leaning fullstack developer in Karawang, Indonesia. I build web products end to end: the interface people touch and the API behind it. I care about performance I can measure, not performance I can claim.
 
-Right now I'm a Web Developer at **PT Webekspres Teknologi Indonesia**, where I've shipped 19 client websites in about four months for businesses, government agencies and schools.
+I graduated in Software Engineering from SMKN 1 Karawang in 2026. From May to November 2026 I was a Web Developer at **PT Webekspres Teknologi Indonesia**, where I shipped 28 client projects for businesses, government agencies and schools, plus my part in platforms with a mobile app and an API. I'm now looking for a full-time role.
 
 You can also find me in a terminal: `npx habibiahmada` or `ssh ssh.habibiahmada.dev`.
 
 ### Experience
 
-- **Web Developer** · PT Webekspres Teknologi Indonesia · *2026 to now*
+- **Web Developer** · PT Webekspres Teknologi Indonesia · *May to Nov 2026*
 - **Coding Camp, top 15 capstone team** · DBS Foundation × Dicoding · *2025*
 - **Web Developer Intern** · CV. SmartPlus Indonesia · *2025*
 - **Software Engineering** · SMK Negeri 1 Karawang · *2023 to 2026*
