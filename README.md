@@ -17,7 +17,7 @@ I'm a frontend-leaning fullstack developer in Karawang, Indonesia. I build web p
 
 I graduated in Software Engineering from SMKN 1 Karawang in 2026. From May to November 2026 I was a Web Developer at **PT Webekspres Teknologi Indonesia**, where I shipped 28 client projects for businesses, government agencies and schools, plus my part in platforms with a mobile app and an API. I'm now looking for a full-time role.
 
-You can also find me in a terminal: `npx habibiahmada` or `ssh ssh.habibiahmada.dev`.
+You can also find me in a terminal: `npx habibiahmada`.
 
 ### Experience
 
