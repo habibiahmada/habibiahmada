@@ -56,6 +56,10 @@ Write-ups for each are at [habibiahmada.dev/projects](https://www.habibiahmada.d
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=habibiahmada&layout=compact&langs_count=8&hide_border=true&card_width=420&theme=tokyonight&bg_color=0D1117&title_color=42A5F5" alt="Top languages"/>
 </p>
 
+<p align="center">
+  <a href="https://wrapyourgit.com/habibiahmada"><img src="https://wrapyourgit.com/habibiahmada/badge.svg?show=contributions,streak,language" alt="My 2026 on GitHub: contributions, longest streak and top language, on WrapYourGit"/></a>
+</p>
+
 ---
 
 <p align="center">
