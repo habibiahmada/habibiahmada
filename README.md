@@ -13,6 +13,8 @@
 
 ### About
 
+<a href="https://wrapyourgit.com/habibiahmada"><img align="right" width="260" src="https://wrapyourgit.com/habibiahmada/card.svg?layout=compact&hide=stats" alt="My 2026 developer archetype on WrapYourGit"/></a>
+
 I'm a frontend-leaning fullstack developer in Karawang, Indonesia. I build web products end to end: the interface people touch and the API behind it. I care about performance I can measure, not performance I can claim.
 
 I graduated in Software Engineering from SMKN 1 Karawang in 2026. From May to November 2026 I was a Web Developer at **PT Webekspres Teknologi Indonesia**, where I shipped 28 client projects for businesses, government agencies and schools, plus my part in platforms with a mobile app and an API. I'm now looking for a full-time role.
@@ -58,6 +60,10 @@ Write-ups for each are at [habibiahmada.dev/projects](https://www.habibiahmada.d
 
 <p align="center">
   <a href="https://wrapyourgit.com/habibiahmada"><img src="https://wrapyourgit.com/habibiahmada/badge.svg?show=contributions,streak,language" alt="My 2026 on GitHub: contributions, longest streak and top language, on WrapYourGit"/></a>
+</p>
+
+<p align="center">
+  <a href="https://wrapyourgit.com/habibiahmada"><img src="https://wrapyourgit.com/habibiahmada/snake.svg" alt="My 2026 contribution graph, eaten by a snake"/></a>
 </p>
 
 ---
